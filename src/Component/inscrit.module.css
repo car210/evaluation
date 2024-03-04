@@ -1,0 +1,8 @@
+.formdiv {
+  display: flex;
+  justify-content: center;
+}
+.buton{
+  background-color: darkgrey;
+  border-radius: 2px;
+}
